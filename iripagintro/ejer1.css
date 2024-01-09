@@ -1,0 +1,15 @@
+
+    body, h1, ol,li {
+        font-family: 'Arial', sans-serif; /* Cambia 'Arial' por la fuente que prefieras */
+    }
+
+
+    h1, h2 {
+        font-family: 'Roboto', sans-serif; /* Cambia 'Roboto' por la fuente que prefieras */
+    }
+
+    p {
+        font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que prefieras */
+    }
+
+    
